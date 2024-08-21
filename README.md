@@ -3,7 +3,7 @@
 
 ## Android native code
 - Create a service class in android module and register the receiver
-- Register the serive in Manifest file
+- Register the service in Manifest file
 - Refer to `LocationService.java` file in android module
 
 ## Start tracking
