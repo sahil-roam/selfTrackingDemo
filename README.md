@@ -54,5 +54,5 @@ Roam.startTrackingCustom(
 
 
 ## Running listener in Headless JS
-- Headless JS allows running JS code when the application is terminate. Location listener can be registered in headless JS to receive locations in JS callback independent of app state.
+- Headless JS allows running JS code when the application is terminated. Location listener can be registered in headless JS to receive locations in JS callback independent of app state.
 - To register headless JS, please refer to `index.js` file in root
